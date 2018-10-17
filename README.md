@@ -1,2 +1,2 @@
 # EECS-531
-EECS 531 of Case Western Reserve University
+EECS 531 of Case Western Reserve University.
